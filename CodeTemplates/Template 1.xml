@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<codeTemplate version="4.0.1">
+    <id>312bb1ed-4db9-47eb-81f8-d8b2fcac9437</id>
+    <name>Template 1</name>
+    <revision>31</revision>
+    <lastModified>
+      <time>1656361333758</time>
+      <timezone>Etc/UTC</timezone>
+    </lastModified>
+    <contextSet>
+      <delegate>
+        <contextType>DESTINATION_FILTER_TRANSFORMER</contextType>
+        <contextType>DESTINATION_DISPATCHER</contextType>
+        <contextType>SOURCE_FILTER_TRANSFORMER</contextType>
+        <contextType>DESTINATION_RESPONSE_TRANSFORMER</contextType>
+        <contextType>SOURCE_RECEIVER</contextType>
+      </delegate>
+    </contextSet>
+    <properties class="com.mirth.connect.model.codetemplates.BasicCodeTemplateProperties">
+      <type>FUNCTION</type>
+      <code>/**
+	Modify the description here. Modify the function name and parameters as needed. One function per
+	template is recommended; create a new code template for each new function.
+
+	@param {String} arg1 - arg1 description
+	@return {String} return description
+*/
+function new_function1(arg1) {
+	// TOD
+}</code>
+    </properties>
+  </codeTemplate>

@@ -4,7 +4,7 @@
     <nextMetaDataId>2</nextMetaDataId>
     <name>Channel3</name>
     <description />
-    <revision>8</revision>
+    <revision>9</revision>
     <sourceConnector version="4.0.1">
       <metaDataId>0</metaDataId>
       <name>sourceConnector</name>
@@ -119,7 +119,7 @@
     <destinationConnectors>
       <connector version="4.0.1">
         <metaDataId>1</metaDataId>
-        <name>Nothing</name>
+        <name>Nothin</name>
         <properties class="com.mirth.connect.connectors.vm.VmDispatcherProperties" version="4.0.1">
           <pluginProperties />
           <destinationConnectorProperties version="4.0.1">
@@ -368,7 +368,7 @@ return;</undeployScript>
       <metadata>
         <enabled>true</enabled>
         <lastModified>
-          <time>1656361242728</time>
+          <time>1656361327188</time>
           <timezone>America/New_York</timezone>
         </lastModified>
         <pruningSettings>
